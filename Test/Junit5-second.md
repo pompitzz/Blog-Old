@@ -1,6 +1,6 @@
 # JUnit5 #2
 
-> [Junit5 User Guide](https://junit.org/junit5/docs/current/user-guide/#overview)를 읽어보면서 Junit5을 공부하는 게시글 입니다.
+> [Junit5 User Guide](https://junit.org/junit5/docs/current/user-guide/#overview)를 읽어보면서 Junit5를 공부하는 게시글 입니다.
 
 > 이번 게시글에서는 JUnit5의 Assertions, Assumptions, Conditional Test등에 대해 알아보겠습니다.
 
